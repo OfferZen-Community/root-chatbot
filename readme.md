@@ -19,7 +19,7 @@ Before you come to the Make Day, there are a couple of basics you need to have u
 - FICA your Root account and get access 
 - Do the Silly Name Maker [tutorial](https://developers.google.com/actions/dialogflow/first-app) on Dialogflow  
 
-(The example uses Firebase and JS in the build fulfillment section, but we highly suggest avoiding this and using [ngrok](https://ngrok.com/) or your preferred way expose an endpoint.)
+(The example uses Firebase and JS in the build fulfillment section, but we highly suggest avoiding this and using [ngrok](https://ngrok.com/) or your preferred way to expose an endpoint.)
 
   
 
