@@ -1,5 +1,5 @@
 
-## Prep Checklist 
+## Welcome
 
 We’re building a chatbot that can query the Root Insurance API, and can be made available across multiple different chat interfaces, like Facebook, Slack and Google Assistant, using NLP. 
 
