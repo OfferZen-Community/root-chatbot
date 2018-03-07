@@ -5,7 +5,8 @@ Below you can find Official example apps that Makers have built for this course.
 
 | App Name      |Description    |Language|
 | ------------- |-------------| -----|
-| [Dinosure App](https://github.com/RootBank/dinosure)| Root Example App | NodeJS |
+| [Dinosure App](https://github.com/RootBank/dinosure)| Root Example App | Node.js |
+| [Root Insurance Sample Bot](https://github.com/root-community/node-insurance-sample-bot) | A sample bot backed by DialogFlow that interacts with the Root Insurance API to issue Term Life policies.| Node.js |
 
 
 Unofficial (contributed) Example Apps
@@ -21,7 +22,7 @@ Please <b>assist, impove and maintain</b> them to help future Makers build their
 | [Rails Example App](https://github.com/Offerzen/make-rails/tree/make-fuza)     | Rails     |   Branch: This is a Rails app that allows a user to engage with the Root Insurance API via either a Facebook messanger bot, Slack bot, or an Alexa skill. |
 | [Ruby Root API Wrapper](https://github.com/RootBank/root-insurance-ruby)     | Ruby     |   A simple wrapper around Root's Insurance API |
 | [Ruby SDK](https://github.com/RootBank/root-ruby)     | Ruby     |   A Ruby SDK for Root's API |
-| [NodeJS Root Library](https://github.com/jilow/root-nodejs)     | NodeJS      |   Node.js client library for using Root API
-| [Dialogflow Template](https://github.com/RichardOB/root-chatbot-webhook-nodejs)     | NodeJS      |   Root Webhook template for creating a Chat Bot using DialogFlow and the Root API|
+| [Node.js Root Library](https://github.com/jilow/root-nodejs)     | Node.js      |   Node.js client library for using Root API
+| [Dialogflow Template](https://github.com/RichardOB/root-chatbot-webhook-nodejs)     | Node.js      |   Root Webhook template for creating a Chat Bot using DialogFlow and the Root API|
 
 
