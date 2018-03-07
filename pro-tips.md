@@ -12,10 +12,13 @@ As you go, please add anything that you pick up too.
 - Remember to push `ENTER` to save rows of information in DialogFlow
 - Remember to `SAVE` things before testing your changes
 - Use the testing dialogue in the top right of the screen to test your conversation, and view the JSON in the bottom right to see a preview of the payload it sends.
+- For testing, use the “Try it now” input box in the top right of your screen. This allows you to debug the context of the conversation piece, as well as view the JSON created. <b> Stay away from testing with the Google Assistant test bed as this seems to be buggy</b>
+- There is an agnostic chat emulator called "Web Demo" that you can turn on in the integrations section in Dialogflow which is useful to test conversation with your bot.
 
 ## Root
 - If you're getting errors about being in testing mode when trying to hit enpoints, make sure you're using `sandbox.root` and not `api.root` in your url requests
 - You’ll auth your requests with the Basic auth using your app’s `Client App ID` as username and the app’s `Client App Secret` as password
+- If you need to generate ID numbers for life insurance, you can use [this link](https://chris927.github.io/generate-sa-idnumbers/)
 
 ## Endpoints
 - Use [Ngrok](www.ngrok.com) to expose your local code via endpoints
