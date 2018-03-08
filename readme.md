@@ -20,7 +20,12 @@ Before you come to the Make Day, there are a couple of basics you need to have u
 - Check out the [Pro Tips](/pro-tips.md) from previous Make Days
 - Have a look around the [Example Apps](/example-apps.md) made by previous Makers and Root Devs
 - Write down one thing thing you want to figure out on the Make Day 
-- Be awesome :) 
+- Be awesome :)
+
+## Other Important Docs for this Make Day
+[Pro Tips](pro-tips.md)
+
+[Agenda and Location](make-day-agenda.md)
 
 ## Some Useful Resources
 
