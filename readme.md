@@ -11,14 +11,19 @@ We’re building a chatbot that can query the Root Insurance API, and can be mad
 
 Before you come to the Make Day, there are a couple of basics you need to have under your belt. Complete the items on this checklist and you’ll be ready to take on the challenges of building Insurtech bots at the Make Day. If you get stuck on any of these, please shout in Make Slack. 
 
+### Admin
 - Join [Make Slack Team](https://join.slack.com/t/offerzen-make/shared_invite/enQtMzA0NzkzODYyNTQ1LTA5OTY4MzI2OWM5NThmODM1MWYyYmJiMThhMWNlMmM1ZTRkZGM0NDBkNTQzYTFkYjY3MTQ4YTljMmYwOWY3ZWY) 
 - FICA your Root account and get access 
+
+### Tech Prep
 - Do the Silly Name Maker [tutorial](https://developers.google.com/actions/dialogflow/first-app) on Dialogflow (the example uses Firebase and JS in the build fulfillment section, but we highly suggest avoiding this and using [ngrok](https://ngrok.com/) or your preferred way to expose an endpoint)
 - Create an Organisation in Root and ensure the [insurance module(s) are enabled](http://g.recordit.co/XXetTnitPt.gif) for that organisation 
 - Have a look around the [Root Insurance API docs](https://app.root.co.za/docs/insurance/api) to understand what you can do with the Insurance API
 - Successfully query the Root API for a quote using [Postman](https://www.getpostman.com/) or similar tool and get a response (note that you need to use `sandbox.root...` in your request urls while testing, not `api.root...`) 
 - Check out the [Pro Tips](/pro-tips.md) from previous Make Days
 - Have a look around the [Example Apps](/example-apps.md) made by previous Makers and Root Devs
+
+### Meta
 - Write down one thing thing you want to figure out on the Make Day 
 - Be awesome :)
 
