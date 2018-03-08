@@ -10,7 +10,7 @@
 
 | Time    | Activity    |
 |-----|-----|
-| 8h00 - 8h30 | Breakfast Meet and Greet at AlphaCode |
+| 8h00 - 8h30 | Breakfast Meet and Greet |
 | 8h30 - 9h00 | Welcome and Introductions -  Ben Blaine |
 | 9h00 - 9h15 | Intro to Root - Allister Smith |
 | 9h15- 9h30 | How a Make Day works - Ben Blaine |
