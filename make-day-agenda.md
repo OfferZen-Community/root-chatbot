@@ -19,10 +19,10 @@
 | 10h00 - 12h30 | Work on Bots |
 | 12h30 - 13h00 | Lunch |
 | 13h00 - 16h00 | Work on Bots |
-| 16h00 - 17h30 | Group discussion about learning* |
+| 16h00 - 17h30 | Group discussion about learning |
 | 17h30 - 19h00 | Drinks and Socialising |
 
-## *Purpose of the day
+## Purpose of the day
 
 We're going to be learning how to build fintech chatbots 💳🤖! It's a fact that people learn best when doing things together. So we'll split into teams during the day and work on our chatbots in teams. 
 
