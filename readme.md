@@ -16,6 +16,7 @@ Before you come to the Make Day, there are a couple of basics you need to have u
 - FICA your Root account and get access 
 
 ### Tech Prep
+- Watch [this 15 Minute Video](https://www.youtube.com/watch?v=ZvyrvowZ4wQ) on Dialogflow Basics (Dialogflow used to be called API.ai). You don't need to follow the build as you'll do the tutorial next. 
 - Do the Silly Name Maker [tutorial](https://developers.google.com/actions/dialogflow/first-app) on Dialogflow (the example uses Firebase and JS in the build fulfillment section, but we highly suggest avoiding this and using [ngrok](https://ngrok.com/) or your preferred way to expose an endpoint)
 - Create an Organisation in Root and ensure the [insurance module(s) are enabled](http://g.recordit.co/XXetTnitPt.gif) for that organisation 
 - Have a look around the [Root Insurance API docs](https://app.root.co.za/docs/insurance/api) to understand what you can do with the Insurance API
