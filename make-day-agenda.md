@@ -18,8 +18,8 @@
 | 9h30 - 10h00 | Break |
 | 10h00 - 12h30 | Work on Bots |
 | 12h30 - 13h00 | Lunch |
-| 13h00 - 16h00 | Work on Bots |
-| 16h00 - 17h30 | Group discussion about learning |
+| 13h00 - 16h30 | Work on Bots |
+| 16h30 - 18h00 | Group discussion about learning |
 | 17h30 - 19h00 | Drinks and Socialising |
 
 ## Purpose of the day
