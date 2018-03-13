@@ -17,7 +17,7 @@ As you go, please add anything that you pick up too.
 
 ### Root
 - If you're getting errors about being in testing mode when trying to hit enpoints, make sure you're using `sandbox.root` and not `api.root` in your url requests
-- You’ll auth your requests with the Basic auth using your app’s `Client App ID` as username and the app’s `Client App Secret` as password
+- You’ll auth your requests with the Basic auth using your `API Key` as username and a blank password
 - If you need to generate ID numbers for life insurance, you can use [this link](https://chris927.github.io/generate-sa-idnumbers/)
 
 ### Endpoints
