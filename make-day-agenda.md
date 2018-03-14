@@ -12,10 +12,10 @@
 | Time    | Activity    |
 |-----|-----|
 | 8h00 - 8h30 | Breakfast Meet and Greet |
-| 8h30 - 9h00 | Welcome and Introductions -  Ben Blaine |
-| 9h00 - 9h15 | Intro to Root - Allister Smith |
-| 9h15- 9h30 | How a Make Day works - Ben Blaine |
-| 9h30 - 10h00 | Break |
+| 8h30 - 9h00 | Welcome and Introductions |
+| 9h00 - 9h15 | Intro to Root |
+| 9h15- 9h30 | DialogFlow overview |
+| 9h30 - 10h00 | Break and teaming up |
 | 10h00 - 12h30 | Work on Bots |
 | 12h30 - 13h00 | Lunch |
 | 13h00 - 16h30 | Work on Bots |
