@@ -24,5 +24,6 @@ Please <b>assist, impove and maintain</b> them to help future Makers build their
 | [Ruby SDK](https://github.com/RootBank/root-ruby)     | Ruby     |   A Ruby SDK for Root's API |
 | [Node.js Root Library](https://github.com/jilow/root-nodejs)     | Node.js      |   Node.js client library for using Root API
 | [Dialogflow Template](https://github.com/RichardOB/root-chatbot-webhook-nodejs)     | Node.js      |   Root Webhook template for creating a Chat Bot using DialogFlow and the Root API|
+| [Slack Root Bot](https://github.com/SpekkoRice/root-bot)     | TypeScript      |   An event driven integration framework for designing your own chat bot to integrate with DialogFlow, Slack & Root.co.za API in TypeScript.|
 
 
