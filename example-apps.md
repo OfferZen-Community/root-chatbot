@@ -12,7 +12,7 @@ Below you can find Official example apps that Makers have built for this course.
 Unofficial (contributed) Example Apps
 ----- 
 Below you can find unofficial example apps that Makers have built for this course.
-Please <b>assist, impove and maintain</b> them to help future Makers build their chatbots and Root integrations.
+Please <b>assist, improve and maintain</b> them to help future Makers build their chatbots and Root integrations.
 
 
 | App Name      |Language    |Description|Maker|
