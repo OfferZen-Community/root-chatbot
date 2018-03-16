@@ -25,5 +25,5 @@ Please <b>assist, impove and maintain</b> them to help future Makers build their
 | [Node.js Root Library](https://github.com/jilow/root-nodejs)     | Node.js      |   Node.js client library for using Root API
 | [Dialogflow Template](https://github.com/RichardOB/root-chatbot-webhook-nodejs)     | Node.js      |   Root Webhook template for creating a Chat Bot using DialogFlow and the Root API|
 | [Slack Root Bot](https://github.com/SpekkoRice/root-bot)     | TypeScript      |   An event driven integration framework for designing your own chat bot to integrate with DialogFlow, Slack & Root.co.za API in TypeScript.|
-
+| [Make Georiddle](https://github.com/William-Francis/make-georiddle)     | NodeJS      |   This is an experimental proof of concept for a game using the Root credit card system. The idea is to lead people on a journey to different merchants using fun riddles, with an ultimate prize at the end.| Contributor: [William Francis](https://github.com/William-Francis)      |
 
