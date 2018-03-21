@@ -22,7 +22,7 @@ As you go, please add anything that you pick up too.
 - If you need to generate ID numbers for life insurance, you can use [this link](https://chris927.github.io/generate-sa-idnumbers/)
 
 ### Endpoints
-- Use [Ngrok](https://www.ngrok.com) to expose your local code via endpoints
+- Use [Ngrok](https://www.ngrok.com) to expose your local code via endpoints -> [handy tips from Jiaan](https://github.com/OfferZen-Make/root-chatbot/blob/master/Q&A.md#question-are-there-any-examplestutorials-with-ngork-and-node)
 - [Ngrok](www.ngrok.com) [fails to start on Windows10](https://github.com/bubenshchykov/ngrok/issues/60) --> Try using [serveo](https://serveo.net/)
 - Firebase [requires you to be on pay as you go plan to make external HTTP requests](https://stackoverflow.com/questions/43415759/use-firebase-cloud-function-to-send-post-request-to-non-google-server)
 - For those coding in [Node.js®](https://nodejs.org/en/), you can use [glitch](https://glitch.com) to host and deploy your code instantly instead of exposing from localhost.
