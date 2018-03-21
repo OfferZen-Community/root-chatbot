@@ -25,3 +25,4 @@ As you go, please add anything that you pick up too.
 - Use [Ngrok](www.ngrok.com) to expose your local code via endpoints
 - [Ngrok](www.ngrok.com) [fails to start on Windows10](https://github.com/bubenshchykov/ngrok/issues/60) --> Try using [serveo](https://serveo.net/)
 - Firebase [requires you to be on pay as you go plan to make external HTTP requests](https://stackoverflow.com/questions/43415759/use-firebase-cloud-function-to-send-post-request-to-non-google-server)
+- For those coding in [Node.js®](https://nodejs.org/en/), you can use [glitch](https://glitch.com) to host and deploy your code instantly instead of exposing from localhost.
