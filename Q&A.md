@@ -6,10 +6,12 @@ _Mihow Bogucki [Make Team Lima] 8:34 PM 25 March 2018_
 
 ## Answer
 
-Ben Blaine [Make Community Manager]
+_Ben Blaine [Make Community Manager]_
+
 Changes take long to deploy and you need to use credit card. ngrok has raving reviews :slightly_smiling_face:
 
-Dan Davey [Make Platform Developer]
+_Dan Davey [Make Platform Developer]_
+
 also logging sucks
 
 ## Question: [Are there any examples/tutorials with ngork and node?](https://offerzen-make.slack.com/archives/C8VD9AS84/p1521626669000084)
