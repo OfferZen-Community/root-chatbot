@@ -1,5 +1,17 @@
 # Questions and answers
 
+## Question: [Why is Firebase and JS suggested as being avoided as prep for the day?](https://offerzen-make.slack.com/archives/C8CRG1G5S/p1522002850000092)
+
+_Mihow Bogucki [Make Team Lima] 8:34 PM 25 March 2018_
+
+## Answer
+
+Ben Blaine [Make Community Manager]
+Changes take long to deploy and you need to use credit card. ngrok has raving reviews :slightly_smiling_face:
+
+Dan Davey [Make Platform Developer]
+also logging sucks
+
 ## Question: [Are there any examples/tutorials with ngork and node?](https://offerzen-make.slack.com/archives/C8VD9AS84/p1521626669000084)
 
 _Liam Coetzee [Make Team Juliett] 12:23PM 21 March 2018_
