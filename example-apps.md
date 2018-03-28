@@ -29,3 +29,4 @@ Please <b>assist, improve and maintain</b> them to help future Makers build thei
 | [NodeJS Starter Project](https://github.com/devillexio/koa-starter)     | NodeJS      |   A simple starter project for those that want to use NodeJS, but would like to play around with something other than express.| [devillexio](https://github.com/devillexio)      |
 | [Simple webhook for DialogFlow using ngrok](https://github.com/avermeulen/dialogflow-webhook-ngrok)     | NodeJS      |   This is a simple web hook for DialogFlow.| [avermeulen](https://github.com/avermeulen)      |
 | [Simple webhook for DialogFlow using Python/Ngrok](https://github.com/devinsmith911/dialogflow-webhook-python)     | Python      |   This is a simple web hook for DialogFlow using Python.| [devinsmith911](https://github.com/devinsmith911)      |
+| [root-api-client](https://github.com/skibz/root-api-client) | Node.js | server-side http client for the root api | [skibz](https://github.com/skibz) |
