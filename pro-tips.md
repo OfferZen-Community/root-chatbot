@@ -1,8 +1,8 @@
 ProTips
 -------
 
-Many people have built insurtech bots in the way that you're currently going about it. 
-This is a collection of things that others have been caught up on before, which may waste some of your time too. 
+Many people have built insurtech bots in the way that you're currently going about it.
+This is a collection of things that others have been caught up on before, which may waste some of your time too.
 As you go, please add anything that you pick up too.
 
 ### Bots
@@ -15,12 +15,13 @@ As you go, please add anything that you pick up too.
 - Use the testing dialogue in the top right of the screen to test your conversation, and view the JSON in the bottom right to see a preview of the payload it sends.
 - For testing, use the “Try it now” input box in the top right of your screen. This allows you to debug the context of the conversation piece, as well as view the JSON created. <b> Stay away from testing with the Google Assistant test bed as this seems to be buggy</b>
 - There is an agnostic chat emulator called "Web Demo" that you can turn on in the integrations section in Dialogflow which is useful to test conversation with your bot.
+- Dialogflow Webhook Format [here](https://developers.google.com/actions/reference/v1/dialogflow-webhook) (JSON structures)
 
 ### Root
-- If you're getting errors about being in testing mode when trying to hit enpoints, make sure you're using `sandbox.root` and not `api.root` in your url requests
+- If you're getting errors about being in testing mode when trying to hit endpoints, make sure you're using `sandbox.root` and not `api.root` in your url requests
 - You’ll auth your requests with the Basic auth using your `API Key` as username and a blank password
 - If you need to generate ID numbers for life insurance, you can use [this link](https://chris927.github.io/generate-sa-idnumbers/)
-- For those using `Postman`, if you recieve a 503 Service Unavailable error while doing a POST change the body type to x-www-form-urlencoded.
+- For those using `Postman`, if you receive a 503 Service Unavailable error while doing a POST change the body type to x-www-form-urlencoded.
 
 ### Endpoints
 - Use [Ngrok](https://www.ngrok.com) to expose your local code via endpoints -> [handy tips from Jiaan](https://github.com/OfferZen-Make/root-chatbot/blob/master/Q&A.md#question-are-there-any-examplestutorials-with-ngork-and-node)
