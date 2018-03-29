@@ -58,3 +58,4 @@ Before you come to the Make Day, there are a couple of basics you need to have u
 ### Other
 
 - [ID number spoofing](https://chris927.github.io/generate-sa-idnumbers/)
+- [South African ID generator CLI](https://github.com/tiaanduplessis/sa-id-gen)
