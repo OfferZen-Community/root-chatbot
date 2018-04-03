@@ -11,7 +11,7 @@
 
 ### Johannesburg
 
-Microsoft Office, 3012 William Nicol Drive, Bryanston
+There is no permanent Make Space in Jhb. Please see the event details and make sure you are on Make Slack to receive updates.
 
 ## Agenda
 
