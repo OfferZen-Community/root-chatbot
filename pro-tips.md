@@ -21,7 +21,7 @@ As you go, please add anything that you pick up too.
 - If you're getting errors about being in testing mode when trying to hit endpoints, make sure you're using `sandbox.root` and not `api.root` in your url requests
 - You’ll auth your requests with the Basic auth using your `API Key` as username and a blank password
 - If you need to generate ID numbers for life insurance, you can use [this link](https://chris927.github.io/generate-sa-idnumbers/)
-- For those using `Postman`, if you receive a 503 Service Unavailable error while doing a POST change the body type to x-www-form-urlencoded.
+- For those using `Postman`, if you receive a 400 Bad Request error while doing a POST change the body type to x-www-form-urlencoded.
 
 ### Endpoints
 - Use [Ngrok](https://www.ngrok.com) to expose your local code via endpoints
