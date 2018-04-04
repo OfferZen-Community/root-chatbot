@@ -30,3 +30,4 @@ Please <b>assist, improve and maintain</b> them to help future Makers build thei
 | [Simple webhook for DialogFlow using ngrok](https://github.com/avermeulen/dialogflow-webhook-ngrok)     | NodeJS      |   This is a simple web hook for DialogFlow.| [avermeulen](https://github.com/avermeulen)      |
 | [Simple webhook for DialogFlow using Python/Ngrok](https://github.com/devinsmith911/dialogflow-webhook-python)     | Python      |   This is a simple web hook for DialogFlow using Python.| [devinsmith911](https://github.com/devinsmith911)      |
 | [root-api-client](https://github.com/skibz/root-api-client) | Node.js | server-side http client for the root api | [skibz](https://github.com/skibz) |
+| [PHP quote generator](https://github.com/valkyriweb/php-root-mikeday)|PHP      | PHP quote generator based on the sandbox that builds the curl query. The next person can quickly mess around with it and fix it up.| [valkyriweb](https://github.com/valkyriweb)      |
