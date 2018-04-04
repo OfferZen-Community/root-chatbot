@@ -12,8 +12,7 @@ We’re building a chatbot that can query the Root Insurance API, and can be mad
 Before you come to the Make Day, there are a couple of basics you need to have under your belt. Complete the items on this checklist and you’ll be ready to take on the challenges of building Insurtech bots at the Make Day. If you get stuck on any of these, please shout in Make Slack. 
 
 ### Admin
-- Join [Make Slack Team](https://join.slack.com/t/offerzen-make/shared_invite/enQtMzA0NzkzODYyNTQ1LTA5OTY4MzI2OWM5NThmODM1MWYyYmJiMThhMWNlMmM1ZTRkZGM0NDBkNTQzYTFkYjY3MTQ4YTljMmYwOWY3ZWY) 
-- FICA your Root account and get access 
+- Join [Make Slack Team](https://join.slack.com/t/offerzen-make/shared_invite/enQtMzA0NzkzODYyNTQ1LTA5OTY4MzI2OWM5NThmODM1MWYyYmJiMThhMWNlMmM1ZTRkZGM0NDBkNTQzYTFkYjY3MTQ4YTljMmYwOWY3ZWY)
 
 ### Tech Prep
 - Watch [this 15 Minute Video](https://www.youtube.com/watch?v=ZvyrvowZ4wQ) on Dialogflow Basics (Dialogflow used to be called API.ai). You don't need to follow the build as you'll do the tutorial next. 
