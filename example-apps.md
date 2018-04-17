@@ -33,3 +33,4 @@ Please <b>assist, improve and maintain</b> them to help future Makers build thei
 | [root-api-client](https://github.com/skibz/root-api-client) | Node.js | server-side http client for the root api | [skibz](https://github.com/skibz) |
 | [PHP quote generator](https://github.com/valkyriweb/php-root-mikeday)|PHP      | PHP quote generator based on the sandbox that builds the curl query. The next person can quickly mess around with it and fix it up.| [valkyriweb](https://github.com/valkyriweb)      |
 | [php-root-insurance-api](https://github.com/sacheen/php-root-insurance-api)|PHP      | An API Class Wrapper for the root insurance API. Not all endpoints have been tested as yet, but this is just a skeleton.| [sacheen](https://github.com/sacheen/)      |
+| [Root Insurance .net Core](https://github.com/TrevorMare/Root_Insurance_Net_Core)|.net      | | [TrevorMare](https://github.com/TrevorMare/)      |
