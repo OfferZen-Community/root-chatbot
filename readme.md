@@ -33,6 +33,7 @@ Before you come to the Make Day, there are a couple of basics you need to have u
 [Agenda and Location](make-day-agenda.md)
 
 ## Some Useful Resources
+- [Dialogflow's Node.js Fulfillment Library](https://blog.dialogflow.com/post/fulfillment-library-beta/)
 
 ### DialogFlow
 
